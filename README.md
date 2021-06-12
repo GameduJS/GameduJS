@@ -1,4 +1,12 @@
-### Hi there 👋
+## Welcome 👋
+
+I'm a interested porgrammer, who often works with the spigot api.
+
+- I’m currently working at [@Dude-Zockt](https://github.com/GameduJS/Dude-Zockt).
+- I'm currently watching for increasing my java skills.
+
+[![GameduJS's Github stats](https://github-readme-stats.vercel.app/api?username=GameduJS&theme=radical)](https://github-readme-stats.vercel.app/api?username=GameduJS&theme=radical)
+<br>
 
 <!--
 **GameduJS/GameduJS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
