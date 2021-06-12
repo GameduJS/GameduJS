@@ -13,7 +13,7 @@ I'm a interested porgrammer, who often works with the spigot api.
 ## Last projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GameduJS&repo=Tycoon)](https://github.com/gamedujs/tycoon)
 
-[@Dude-Zockt](https://github.com/GameduJS/Dude-Zockt) at the beginning
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GameduJS&repo=Dude-Zockt)](https://github.com/GameduJS/Dude-Zockt)
 
 <!--
 **GameduJS/GameduJS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
