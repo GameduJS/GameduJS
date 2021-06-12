@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text='Gamedude's%20profile'%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text='Gamedude's%20profile'&fontSize=70)
 
 
 I'm a interested porgrammer, who often works with the spigot api.
