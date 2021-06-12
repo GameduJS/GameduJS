@@ -8,6 +8,11 @@ I'm a interested porgrammer, who often works with the spigot api.
 [![GameduJS's Github stats](https://github-readme-stats.vercel.app/api?username=GameduJS&theme=radical)](https://github-readme-stats.vercel.app/api?username=GameduJS&theme=radical)
 <br>
 
+## Last projects
+[@Tycoon](https://github.com/GameduJS/Tycoon) not finished yet.
+
+[@Dude-Zockt](https://github.com/GameduJS/Dude-Zockt) at the beginning
+
 <!--
 **GameduJS/GameduJS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
