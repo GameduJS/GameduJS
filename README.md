@@ -1,5 +1,8 @@
 ## Welcome 👋
 
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=capsule%20render&fontSize=90)
+
+
 I'm a interested porgrammer, who often works with the spigot api.
 
 - I’m currently working on [@Dude-Zockt Network](https://github.com/GameduJS/Dude-Zockt) (Started this project because I was bored).
