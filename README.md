@@ -11,7 +11,7 @@ I'm a interested porgrammer, who often works with the spigot api.
 <br>
 
 ## Last projects
-[@Tycoon](https://github.com/GameduJS/Tycoon) not finished yet.
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GameduJS&repo=Tycoon)](https://github.com/gamedujs/tycoon)
 
 [@Dude-Zockt](https://github.com/GameduJS/Dude-Zockt) at the beginning
 
