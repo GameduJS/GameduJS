@@ -1,31 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=Gamedude's%20profile&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=footer&text=Gamedude's%20profile&fontSize=50)
 
 
-I'm a interested porgrammer, who often works with the spigot api.
-
-- I’m currently working on [@Dude-Zockt Network](https://github.com/GameduJS/Dude-Zockt) (Started this project because I was bored).
-- I'm currently watching for increasing my java skills.
-
-[![GameduJS's Github stats](https://github-readme-stats.vercel.app/api?username=GameduJS&theme=radical)](https://github-readme-stats.vercel.app/api?username=GameduJS&theme=radical)
-<br>
-
-## Last projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GameduJS&repo=Tycoon)](https://github.com/gamedujs/tycoon)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GameduJS&repo=Dude-Zockt)](https://github.com/GameduJS/Dude-Zockt)
-
-<!--
-**GameduJS/GameduJS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Currently inactive**
